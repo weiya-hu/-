@@ -1,0 +1,143 @@
+body{background: url(../img/bg_02.png);}
+.navbig{background: white!important;}
+.img-logo{height: 50px;vertical-align: middle;margin-top: -10px;}
+.nav1 a{color: black!important;font-size: 18px;border-top: 2px solid white;}
+.nav1 a:hover{border-top: 2px solid #A50003;}
+.dail{margin-top: 10px;}
+.nav-dail{display: inline-block;vertical-align: top;}
+.img-nav-dail{vertical-align: middle;}
+.nav-dail :nth-child(1){font-size: 12px;color: black;margin-bottom: 0!important;}
+.nav-dail :nth-child(2){font-size: 18px;color: #a50003;}
+.lb .left1,.lb .right1{background-image: none!important;background:none!important;}
+
+
+
+.style-top,.anli-top{text-align: center;margin: 30px auto;}
+.style-top img,.anli-top img{max-width: 100%;}
+.style-c img,.anli-c1 img{width: 100%;vertical-align: top;}
+.style_wdith{padding: 0!important;}
+.style-s{position: relative;margin-bottom: 5%;vertical-align: middle;}
+.style-text{width: 80%;text-align: center;padding: 20% 0;background: rgba(255,255,255,0.7);
+	position: absolute;top: 50%;left: 10%;margin-top: -33%;}
+.style-text-kuang{color: #FF9000;border: 1px solid #FF9000;width: 80%;text-align: center;
+	display: inline-block;font-size: 45px;overflow: hidden;white-space: nowrap;
+	text-overflow:ellipsis;}
+
+
+.anli-img{position: relative;overflow: hidden;margin-bottom: 5%;}
+.anli-c1 p{font-size: 14px; color: white;background: rgba(0,0,0,0.5);text-align: center;
+	line-height: 30px;width: 100%;position: absolute;left: 0;bottom: 0;display: none;
+	margin-bottom: 0!important;}
+.anli-img:hover p{display: block;}
+.anli-c2{background: white;padding-top: 10px;}
+.anli-c2-dd{padding: 0!important;}
+.anli-c2-d{text-align: center;}
+.anli-c2-d p{text-align: center;margin: 0 auto;width: 80%;display: inline-block;}
+
+
+
+.qy-c{overflow: hidden;}
+.qy-c-d{display: inline-block;padding-right:30px;
+	transition: all .5s linear; }
+.qy-big{width: 126%;transition: all .5s linear;}
+.qy-c-d-up{border: 3px solid #A50003;border-radius: 50%;overflow: hidden;}
+.qy-bt{position: relative;}
+.qy-btl{font-size: 36px;color: #858585;background: rgba(255,255,255,0.2);cursor: pointer;
+	position: absolute!important;top: 44%!important;left: -20px;padding: 10px 0;}
+.qy-btr{font-size: 36px;color: #858585;background: rgba(255,255,255,0.2);cursor: pointer;
+	position: absolute!important;top: 44%!important;right: -45px;padding: 10px 0;}
+
+
+
+
+
+
+.dt-c-d{margin: 10px 0;text-align: center;}
+.dt-c-dx:hover{box-shadow: 0px 0px 5px 5px #ccc;}
+.dt-c-dx{background: white;padding: 10px;}
+.dt p{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.dt a{color:#333!important;}
+.dt a:hover{text-decoration:underline!important;}
+.dt-c-d img,.hz-x img,.team-c-d>img{max-width: 100%;}
+
+
+.hz{margin-bottom: 50px;}
+.hz-c{background: white;}
+.hz-x{margin: 10px 0;cursor: pointer;}
+
+
+.team{padding-bottom: 60px;}
+.team-bt{width: 1100px;margin: 0 auto;position: relative;}
+.team-c-s{overflow: hidden;width: 1110px!important;margin: 0 auto;}
+.btl{font-size: 36px;color: #858585;background: rgba(255,255,255,0.2);
+	position: absolute!important;top: 42%!important;left: -40px;padding: 10px 0;cursor: pointer;}
+.btr{font-size: 36px;color: #858585;background: rgba(255,255,255,0.2);
+	position: absolute!important;top: 42%!important;right: -50px;padding: 10px 0;cursor: pointer;}
+
+.team-c{width: 130%;}
+.team-c-d{display: inline-block;padding:0 10px;width: 224px;position: relative;
+	transition: all .5s linear;}
+.team-c-d img{width: 204px;height: 300px;}
+.team-c-d p{position: absolute;bottom: 0;background-color: rgba(0,0,0,0.5);color: white;
+    width: 91%;line-height: 32px;font-size: 18px;display: none;margin-bottom: 0!important;
+    text-align: center;}
+.team-c-d:hover p{display: block;}
+.di{color: white;background: black;text-align: center;font-size: 12px;padding: 2px 0;}
+.di span{color: #337ab7;}
+
+
+
+
+
+.foot-up{background: rgba(0,0,0,0.3);padding: 20px 0;position: relative;}
+.sp1{font-size: 50px!important;color: #A50003!important;position: relative;top: 20px;}
+.img1{margin-bottom: -15px!important;}
+.p1{color: white;font-size: 32px;margin-left: -40px;margin-right: -40px;margin-top: 10px;}
+.p1 span{font-size: 20px;color: #A50003;}
+.p2{font-size: 18px;color: white;margin-left: -36px;margin-right: -20px;}
+.inp1{background:#FFFCEF url(../img/index_184.png) no-repeat 6px 14px;padding:10px 5px 10px 25px;width: 100%;
+	margin-bottom: 15px;}
+.inp2{background:#FFFCEF url(../img/index_194.png) no-repeat 6px 14px;padding:10px 5px 10px 25px;width: 100%;}
+.inp3{background:#FFFCEF url(../img/index_181.png) no-repeat 6px 10px;padding:10px 5px 10px 25px;width: 100%;
+	margin-bottom: 15px;}
+.inp4{background:#FFFCEF url(../img/index_192.png) no-repeat 6px 12px;padding:10px 5px 10px 25px;width: 100%;}
+.inp5{background: #A50003;width: 150px;padding: 10px 0;border-radius: 8px;color: white;margin-top: 25px;}
+.tj{text-align: center;}
+input{border: none;outline: none;}
+.cha{color: white;font-size:18px;cursor: pointer;position: absolute!important;right: 10px;top: 10px!important;}
+.foot-down{background: #2b2b2b;color: white;}
+.foot-down-d1{margin: 20px 0 10px;}
+.foot-down-d1 span{font-size: 18px;font-weight: bold;cursor: pointer;}
+.foot-down-d1 img{}
+footer .p3{font-size: 15px;line-height: 24px;margin-left: 36px;cursor: pointer;} 
+
+
+.back{position: fixed;top:50%;right:0;margin-top: -87px;}
+.zixun{background: #A50003;padding: 10px;border: 1px solid #bdbdbd;text-align: center;color: white;
+	margin-bottom: 2px;cursor: pointer;}
+.zixun img{width: 48px;}
+.zixun p{margin-bottom: 0!important;}
+.zixun1 img{width: 40px;}
+.zixun a{color: white!important;text-decoration: none!important;}
+.zixun a:hover{color: white!important;text-decoration: none!important;}
+
+
+
+@media only screen and (max-width: 1200px) {
+	.nav1 a{font-size: 14px}
+	.style-text-kuang{font-size: 38px;}
+	.sp1{font-size: 24px!important;}
+	.p1{font-size: 18px!important;}
+	.p2{font-size: 12px!important;}
+}
+@media only screen and (max-width: 768px) {
+	.anli-c2-d{padding-left: 0 !important;padding-right: 0 !important;margin: 0 !important;}
+	.p1,.p2{margin-left: 0;margin-right: 0;}
+	.sp1{top: 0;}
+	.img1{margin-bottom: 10px!important;}
+	.zixun img{width: 30px;}
+	.zixun1 img{width: 26px;}
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+	.sp1{position: relative;top: 0;}
+}

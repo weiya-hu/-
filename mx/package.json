@@ -1,0 +1,19 @@
+{
+  "name": "mingnan-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^3.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
